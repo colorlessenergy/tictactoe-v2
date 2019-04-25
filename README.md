@@ -1,6 +1,6 @@
-# _spa-coding-problem_
+# _tic tac toe v2_
 
-#### practice writing comments_
+#### _practice writing comments_
 
 #### By _**colorlessenergy**_
 
