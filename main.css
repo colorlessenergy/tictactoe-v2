@@ -1,0 +1,14 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+  margin: 10px;
+}
+
+.tic-tac-toe {
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  width: 300px;
+}
